@@ -173,5 +173,6 @@ This project is licensed under the MIT License.
 Mohit
 📌 Machine Learning & Data Science Enthusiast
 
+#LinkedIn
 ⭐ If you like this project, don’t forget to star the repository!
  LinkedIn :https://www.linkedin.com/in/mohit-chaudhari-343940328/
